@@ -130,7 +130,7 @@ CSV file viewable in Excel or Google Sheets:
 
 ## 🤖 Author
 
-Created for educational purposes by Bastian (mindlayer.site)
+Created for educational purposes by Bastian 
 
 ---
 
