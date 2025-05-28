@@ -1,0 +1,15 @@
+Subreddit: webscraping
+Posts fetched: 27
+After token: t3_1kua33e
+Subscribers: 64513
+
+Subreddit: python
+Posts fetched: 27
+After token: t3_1kvf63y
+Subscribers: 1359742
+
+Subreddit: learnprogramming
+Posts fetched: 27
+After token: t3_1kx06ff
+Subscribers: 4213552
+
